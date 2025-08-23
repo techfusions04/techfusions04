@@ -1,13 +1,13 @@
 # 👋 Welcome to Tech Fusions!
 
 **Tech Fusions**  
-* Development & Corporate Solutions| Digital Marketing Agency | India*
+* Development & Corporate Solutions| Digital Marketing Agency | India *
 
 ---
 
 ## 🚀 About Us
 
-🚀 **Sarkar Solutions** — India’s powerhouse in **Digital Marketing & Web Development**. We build sleek, high-performance websites and craft smart marketing strategies that drive real growth. From SEO and social media to custom web apps and e-commerce, we turn ideas into impactful digital experiences.
+🚀 **Techfusions** — India’s powerhouse in **Digital Marketing & Web Development**. We build sleek, high-performance websites and craft smart marketing strategies that drive real growth. From SEO and social media to custom web apps and e-commerce, we turn ideas into impactful digital experiences.
 
 
 - **Industry-Focused Curriculum:** Tailored programs in Software Engineering & Development.
@@ -21,14 +21,13 @@
 
 - **Web Development** (HTML, CSS, JavaScript etc.)
 - **Full Stack Development** (TypeScript, Node.js, React, Next.js, Fastify, Postgres etc.)
-- **Soft Skills & Career Guidance**
+- **Digital Marketing** (SEO, SMO , Google Ads )
 
 ---
 
 ## 🎯 Our Mission
 
-To nurture future-ready tech talent by providing world-class education and practical exposure, making our students stand out in the global IT industry.
-
+To transform learners into industry-ready professionals through exposure to top-notch education and hands-on experience, elevating our students within the international IT workforce
 ---
 
 ### 📫 Contact & Links
