@@ -13,7 +13,7 @@
 - **Industry-Focused Curriculum:** Tailored programs in Software Engineering & Development.
 - **Expert Trainers:** Learn from professionals with real-world experience.
 - **Career Support:** Internship & placement assistance to launch your tech career.
-- **Corporate Training:** Upskill your workforce with our specialized courses.
+
 
 ---
 
