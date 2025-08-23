@@ -7,7 +7,7 @@
 
 ## 🚀 About Us
 
-** Tech Fusions ** is a leading Career Development and Corporate Training Institute based in India, dedicated to empowering students to become exceptional software engineers and developers. We bridge the gap between academia and industry by delivering hands-on, project-based learning experiences.
+**Tech Fusions** is a leading Career Development and Corporate Training Institute based in India, dedicated to empowering students to become exceptional software engineers and developers. We bridge the gap between academia and industry by delivering hands-on, project-based learning experiences.
 
 - **Industry-Focused Curriculum:** Tailored programs in Software Engineering & Development.
 - **Expert Trainers:** Learn from professionals with real-world experience.
