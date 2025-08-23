@@ -7,7 +7,8 @@
 
 ## 🚀 About Us
 
-**Tech Fusions** is a leading Career Development and Corporate Training Institute based in India, dedicated to empowering students to become exceptional software engineers and developers. We bridge the gap between academia and industry by delivering hands-on, project-based learning experiences.
+🚀 **Sarkar Solutions** — India’s powerhouse in **Digital Marketing & Web Development**. We build sleek, high-performance websites and craft smart marketing strategies that drive real growth. From SEO and social media to custom web apps and e-commerce, we turn ideas into impactful digital experiences.
+
 
 - **Industry-Focused Curriculum:** Tailored programs in Software Engineering & Development.
 - **Expert Trainers:** Learn from professionals with real-world experience.
