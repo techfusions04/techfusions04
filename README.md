@@ -1,4 +1,4 @@
-# 👋 Welcome to citindia!
+# 👋 Welcome to Tech Fusions!
 
 **Tech Fusions**  
 * Development & Corporate Solutions| Digital Marketing Agency | India*
