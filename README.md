@@ -27,7 +27,7 @@
 
 ## 🎯 Our Mission
 
-To transform learners into industry-ready professionals through exposure to top-notch education and hands-on experience, elevating our students within the international IT workforce
+To empower businesses with innovative digital tools and strategies that spark growth, build lasting connections, and create impactful online experiences.
 ---
 
 ### 📫 Contact & Links
