@@ -1,7 +1,7 @@
 # 👋 Welcome to Tech Fusions!
 
 **Tech Fusions**  
-* Development & Corporate Solutions| Digital Marketing Agency | India *
+* Development & Corporate Solutions | Digital Marketing Agency | India *
 
 ---
 
